@@ -1,6 +1,5 @@
 # 🎨⚡️
 
-![demo video](/color.gif)
 
 # Getting Started #
 
